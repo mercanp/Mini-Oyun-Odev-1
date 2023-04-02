@@ -1,0 +1,8 @@
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\bin\Debug\MiniOyunEgitimi.exe.config
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\bin\Debug\MiniOyunEgitimi.exe
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\bin\Debug\MiniOyunEgitimi.pdb
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\obj\Debug\MiniOyunEgitimi.csproj.AssemblyReference.cache
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\obj\Debug\MiniOyunEgitimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\obj\Debug\MiniOyunEgitimi.csproj.CoreCompileInputs.cache
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\obj\Debug\MiniOyunEgitimi.exe
+C:\Users\Pınar\source\repos\MiniOyunEgitimi\MiniOyunEgitimi\obj\Debug\MiniOyunEgitimi.pdb
